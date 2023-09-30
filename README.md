@@ -1,0 +1,1 @@
+https://www.reddit.com/r/C_Programming/comments/fbc2kp/i_cant_compile_an_ncurses_program_statically/
