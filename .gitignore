@@ -2,6 +2,7 @@
 .ninja_deps
 .ninja_log
 cmake-build-debug/jkill
+target/
 
 # Prerequisites
 *.d
